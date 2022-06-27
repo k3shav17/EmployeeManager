@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spirng.jpa.properties.hibernate.dialect",
+  "type": "java.lang.String",
+  "description": "A description for 'spirng.jpa.properties.hibernate.dialect'"
+}]}
