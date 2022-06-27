@@ -1,4 +1,4 @@
-package com.employeemgmt.employeemanager.model;
+package com.employee.manager.model;
 
 import java.io.Serializable;
 
